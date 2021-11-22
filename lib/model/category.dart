@@ -4,6 +4,6 @@ class Category{
 
   Category({
     required this.categoryName,
-    required this.imgUrl
-});
+    required this.imgUrl,
+  });
 }
